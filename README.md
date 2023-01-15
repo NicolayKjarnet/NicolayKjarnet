@@ -1,33 +1,55 @@
-<h1>Hi there, I'm Nicolay</h1>
+<h1>Hi there, I'm Nicolay 👋🏻</h1>
 
-<h2>I'm a future front-end develper and UX/UI designer.</h2>
+<p>I am currently pursuing a Bachelor's degree in Front-end and Mobile Development at Kristiania University and am excited to put my skills and knowledge to use in real-world projects. As a front-end developer, my goal is to create user-centered digital experiences that are intuitive and visually appealing.</p>
 
-<p>I'm currently enrolled at Kristiania University, getting a bachelor's degree in Front-end And Mobile Developement.</p>
+<hr>    
+<h3>Languages && Tools</h3>
 
-</br>
+<div>
+<img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
+<img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
+<img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
+<img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+<img alt="MySql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+
+<img alt="C-Sharp" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
+<img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     
-<hr style="background-color: #2c3e50; border-radius: 10px; border: 0;">
-
-</br>
-
-
-</br>
+<img alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     
-<hr style="background-color: #2c3e50; border-radius: 10px; border: 0;">
-
-</br>
-
-<h3 style="color: #ecf0f1;">Learning</h3><hr style="display: inline-block;border: 0; height: .1px; background-color: 
-#2a80b9; width: 100%;">
-
-
-</br>
+<img alt="Kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
     
-<hr style="background-color: #2c3e50; border-radius: 10px; border: 0;">
+<img alt="Node JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    
+<img alt="Dot-Net" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+    
+</div>
 
-</br>
+<hr>
 
-<h3 style="color: #ecf0f1;">Software</h3><hr style="display: inline-block;border: 0; height: .1px; background-color: 
-#2a80b9; width: 100%;">
+<h3>Software</h3>
 
-</br>
+<div>
+
+<img alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="IntelliJ" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img alt="Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img alt="Adobe XD" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
+<img alt="Adobe Illustrator" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img alt="Android Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+</div>
+
+<hr>
+
+<h4>About Me</h4>
+
+<p>As a creative individual with a passion for the arts, I have spent most of my youth and adult life exploring various forms of media. Presently, I am a part-time video editor while pursuing my education. My greatest strengths include a tireless work ethic, great attention to detail, and a structured approach. Whether in my professional or personal life, I am constantly looking for ways to improve and optimize.</p>
+
+<p>Currently, I am in the process of creating a portfolio that highlights some of my most notable school and hobby projects.</p>
