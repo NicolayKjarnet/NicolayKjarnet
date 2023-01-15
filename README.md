@@ -1,8 +1,11 @@
 <h1>Hi there, I'm Nicolay 👋🏻</h1>
 
-<p>I am currently pursuing a Bachelor's degree in Front-end and Mobile Development at Kristiania University and am excited to put my skills and knowledge to use in real-world projects. As a front-end developer, my goal is to create user-centered digital experiences that are intuitive and visually appealing.</p>
+**`Lifelong Learner || Renaissance Man`**
 
-<hr>    
+<p>I'm currently pursuing a Bachelor's degree in Front-end and Mobile Development at Kristiania University and am excited to put my skills and knowledge to use in real-world projects. As an aspiring front-end developer, my goal is to create user-centered digital experiences that are intuitive and visually appealing.</p>
+
+#
+
 <h3>Languages && Tools</h3>
 
 <div>
@@ -16,11 +19,15 @@
 
 <img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
+<img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+</div>
+
+<div>
+    
 <img alt="MySql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
-<img alt="C-Sharp" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
-<img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="CPlusPlus" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
     
 <img alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     
@@ -32,7 +39,7 @@
     
 </div>
 
-<hr>
+#
 
 <h3>Software</h3>
 
@@ -46,10 +53,10 @@
 <img alt="Android Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 </div>
 
-<hr>
+#
 
-<h4>About Me</h4>
+<h3>About Me</h3>
 
-<p>As a creative individual with a passion for the arts, I have spent most of my youth and adult life exploring various forms of media. Presently, I am a part-time video editor while pursuing my education. My greatest strengths include a tireless work ethic, great attention to detail, and a structured approach. Whether in my professional or personal life, I am constantly looking for ways to improve and optimize.</p>
+<p>I'm a creative individual with a passion for the arts, and have spent most of my youth and adult life exploring various forms of media. Presently, I am a part-time video editor while pursuing my education. My greatest strengths include <em>a tireless work ethic, great attention to detail, and a structured approach</em>. Whether in my professional or personal life, I am constantly looking for ways to improve and optimize.</p>
 
-<p>Currently, I am in the process of creating a portfolio that highlights some of my most notable school and hobby projects.</p>
+<p>Currently, I'm in the process of creating a portfolio that highlights some of my most notable school and hobby projects.</p>
