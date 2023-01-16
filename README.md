@@ -4,7 +4,7 @@
 
 <p>I'm currently pursuing a Bachelor's degree in Front-end and Mobile Development at Kristiania University and am excited to put my skills and knowledge to use in real-world projects. As an aspiring front-end developer, my goal is to create user-centered digital experiences that are intuitive and visually appealing.</p>
 
-#
+<hr>
 
 <h3>Languages && Tools</h3>
 
@@ -53,7 +53,7 @@
 <img alt="Android Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 </div>
 
-#
+<hr>
 
 <h3>About Me</h3>
 
