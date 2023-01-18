@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Nicolay 👋🏻</h1>
 
-**`Lifelong Learner || Renaissance Man`**
+**`Lifelong Learner`**
 
 <p>I'm currently pursuing a Bachelor's degree in Front-end and Mobile Development at Kristiania University and am excited to put my skills and knowledge to use in real-world projects. As an aspiring front-end developer, my goal is to create user-centered digital experiences that are intuitive and visually appealing.</p>
 
