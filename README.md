@@ -1,12 +1,12 @@
-<h1>Hi there, I'm Nicolay 👋🏻</h1>
+<h1>Nicolay 👋🏻</h1>
 
-**`Lifelong Learner`**
+**`Life-long scholar`**
 
-<p>I'm currently pursuing a Bachelor's degree in Front-end and Mobile Development at Kristiania University and am excited to put my skills and knowledge to use in real-world projects. As an aspiring front-end developer, my goal is to create user-centered digital experiences that are intuitive and visually appealing.</p>
+<p>🎓 Second-year student in the Front-end and Mobile Development program at Kristiania University</p>
 
 <hr>
 
-<h3>Languages && Tools</h3>
+<h3>🔨 Languages && Tools</h3>
 
 <div>
 <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -41,7 +41,7 @@
 
 #
 
-<h3>Software</h3>
+<h3>📀 Software</h3>
 
 <div>
 
@@ -55,8 +55,18 @@
 
 <hr>
 
-<h3>About Me</h3>
+<h4>📢 About me</h4>
 
-<p>I'm a creative individual with a passion for the arts, and have spent most of my youth and adult life exploring various forms of media. Presently, I am a part-time video editor while pursuing my education. My greatest strengths include <em>a tireless work ethic, great attention to detail, and a structured approach</em>. Whether in my professional or personal life, I am constantly looking for ways to improve and optimize.</p>
+<p>I have spent most of my youth and adult life exploring various forms of media, including videography, music production, and writing. I hold a Bachelor's degree in Screenwriting from Westerdals School of Communication, and enjoy exploring different ways of expressing creative ideas.</p>
 
-<p>Currently, I'm in the process of creating a portfolio that highlights some of my most notable school and hobby projects.</p>
+<p>Currently, I'm a freelance video editor, primarily working for Universal Music Norway, while continuing my education. Once I have completed my Bachelor's degree, I aim to become a first-class font-end developer.</p>
+
+<h4>💪🏻 Greatest strengths</h4>
+<ul>
+<li>Constantly looking for ways to improve and optimize</li>
+<li>Attention to detail</li>
+<li>Passion for learning new things</li>
+</ul>
+
+<h4>⏭️ What's next?</h4>
+<p>I'm currently developing a portfolio that features a selection of school and personal projects.</p>
