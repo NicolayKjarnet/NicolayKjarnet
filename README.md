@@ -69,4 +69,4 @@
 </ul>
 
 <h4>⏭️ What's next?</h4>
-<p>I'm currently developing a portfolio that features a selection of school and personal projects.</p>
+<p>I'm currently enrolling in the courses "Data Structures and Algorithms", "From Edge to App", and "Agile Project".</p>
