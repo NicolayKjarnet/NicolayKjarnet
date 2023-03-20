@@ -1,14 +1,13 @@
-<h1>Nicolay 👋🏻</h1>
+<h1>Hi there, I'm Nicolay!</h1>
 
-**`Life-long scholar`**
+<p>Second-year student in the Front-end and Mobile Development program at Kristiania University</p>
 
-<p>🎓 Second-year student in the Front-end and Mobile Development program at Kristiania University</p>
+#
 
-<hr>
-
-<h3>🔨 Languages && Tools</h3>
+<h3>Languages && Tools</h3>
 
 <div>
+    
 <img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
 <img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -20,10 +19,6 @@
 <img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-</div>
-
-<div>
     
 <img alt="MySql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
 
@@ -39,9 +34,7 @@
     
 </div>
 
-#
-
-<h3>📀 Software</h3>
+<h3>Software</h3>
 
 <div>
 
@@ -53,20 +46,20 @@
 <img alt="Android Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 </div>
 
-<hr>
+#
 
-<h4>📢 About me</h4>
+<h4>About me</h4>
 
 <p>I have spent most of my youth and adult life exploring various forms of media, including videography, music production, and writing. I hold a Bachelor's degree in Screenwriting from Westerdals School of Communication, and enjoy exploring different ways of expressing creative ideas.</p>
 
-<p>Currently, I'm a freelance video editor, primarily working for Universal Music Norway, while continuing my education. Once I have completed my Bachelor's degree, I aim to become a first-class font-end developer.</p>
+<p>Currently, I'm pursuing my Bachelor's degree in IT while working as a freelance video editor for Universal Music Norway. My goal is to become a great front-end developer, although I'm also open to exploring opportunities in back-end, full-stack, or UX development.</p>
 
-<h4>💪🏻 Greatest strengths</h4>
+<h4>Greatest strengths</h4>
 <ul>
 <li>Constantly looking for ways to improve and optimize</li>
 <li>Attention to detail</li>
 <li>Passion for learning new things</li>
 </ul>
 
-<h4>⏭️ What's next?</h4>
-<p>I'm currently enrolling in the courses "Data Structures and Algorithms", "From Edge to App", and "Agile Project".</p>
+<h4>What's next?</h4>
+<p>I'm currently enrolling in the courses "Data Structures and Algorithms", "From Edge to App", and "Agile Project", and have just applied for apprenticeship at two tech companies in Oslo.</p>
