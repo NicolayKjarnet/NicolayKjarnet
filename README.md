@@ -62,4 +62,4 @@
 </ul>
 
 <h4>What's next?</h4>
-<p>I'm currently enrolling in the courses "Data Structures and Algorithms", "From Edge to App", and "Agile Project"</p>
+<p>I'm currently enrolling in the courses "Data Structures and Algorithms", "From Edge to App", and "Agile Project".</p>
