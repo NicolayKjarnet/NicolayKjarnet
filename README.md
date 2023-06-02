@@ -7,20 +7,18 @@
 <h3>Languages && Tools</h3>
 
 <div>
-    
-<img alt="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-
-<img alt="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-
-<img alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
-<img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    
+<img alt="Arduino" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+    
+<img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     
 <img alt="MySql" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+    
+<img alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 
 <img alt="CSharp" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     
@@ -62,4 +60,10 @@
 </ul>
 
 <h4>What's next?</h4>
-<p>I'm currently enrolling in the courses "Data Structures and Algorithms", "From Edge to App", and "Agile Project".</p>
+
+<h5>Greenhouse Monitoring System -> hobby project</h5>
+<p>I'm currently building a greenhouse monitoring system with an Arduino device that stores data in MongoDB and displays graphs on my phone. When it's done, it should be able to send push alerts to when temperature, humidity or water levels are off limit.</p>
+
+
+<h5>Agile Project -> school project</h5>
+<p>We're currently having a group exam that revolves around the process of Agile methodology. We're building a prototype in Figma and developing an app for using AR functionality inside the Munch Museum.</p>
