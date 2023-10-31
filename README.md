@@ -60,7 +60,7 @@
 <li>Passion for learning new things</li>
 </ul>
 
-<h4>What's next?</h4>
+<h4>Projects</h4>
 
 <h5>Greenhouse Monitoring System</h5>
 <p>I'm currently building a greenhouse monitoring system with an Arduino device that stores data in MongoDB and displays graphs on my phone. When it's done, it should be able to send push alerts when temperature, humidity, or water levels are off limits.</p>
