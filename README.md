@@ -4,7 +4,7 @@
 
 #
 
-<h3>Frameworks || Languages || Tools</h3>
+<h3>Tools && Languages</h3>
 
 <div>
           
@@ -67,3 +67,6 @@
 
 <h5>Exams</h5>
 <p>This semester, I'm having exams in iOS Programming, Cross-platform (React Native, Expo) and Research Methods</p>
+
+<h5>Portfolio</h5>
+<p>My portfolio built with vanilla HTML, CSS and JS is currently under construction under this domain: nicolaykjaernet.com</p>
