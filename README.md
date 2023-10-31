@@ -4,21 +4,19 @@
 
 #
 
-<h3>Languages && Tools</h3>
+<h3>Frameworks || Languages || Tools</h3>
 
 <div>
-    
-
           
 <img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img alt="Swift" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 
 <img alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
 <img alt="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 <img alt="Kotlin" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    
-<img alt="Swift" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 
 <img alt="MongoDb" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
     
@@ -28,8 +26,8 @@
     
 <img alt="Dot-Net" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 
-<img alt="Node JS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    
+<img alt="Tailwind CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+          
 <img alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     
 </div>
@@ -41,6 +39,7 @@
 <img alt="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="IntelliJ" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
 <img alt="Figma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img alt="Photoshop" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img alt="Adobe XD" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
 <img alt="Adobe Illustrator" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img alt="Android Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
@@ -66,5 +65,5 @@
 <h5>Greenhouse Monitoring System</h5>
 <p>I'm currently building a greenhouse monitoring system with an Arduino device that stores data in MongoDB and displays graphs on my phone. When it's done, it should be able to send push alerts when temperature, humidity, or water levels are off limits.</p>
 
-<h5>Agile Project</h5>
-<p>At school, we're currently having an exam that revolves around the process of Agile methodology. We're building a prototype in Figma and developing an app for using AR functionality inside the Munch Museum.</p>
+<h5>Exams</h5>
+<p>This semester, I'm having exams in iOS Programming, Cross-platform (React Native, Expo) and Research Methods</p>
