@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Nicolay!</h1>
 
-<p>Second-year student in the Front-end and Mobile Development program at Kristiania University</p>
+<p>Third-year student in the Front-end and Mobile Development program at Kristiania University</p>
 
 #
 
