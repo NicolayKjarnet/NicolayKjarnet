@@ -25,10 +25,6 @@
 <img alt="CSharp" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     
 <img alt="Dot-Net" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-
-<img alt="Tailwind CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-          
-<img alt="Bootstrap" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     
 </div>
 
