@@ -72,9 +72,9 @@ With the tech industry evolving rapidly, I set a personal goal in January to ded
 
 - **The Complete React Native + Hooks Course:** ![40% Complete](https://img.shields.io/badge/Progress-40%25-orange?style=flat-square)
 - **SwiftUI + SwiftData Masterclass:** ![26% Complete](https://img.shields.io/badge/Progress-26%25-orange?style=flat-square)
+- **Next.js: The Complete Developer's Guide:** ![20% Complete](https://img.shields.io/badge/Progress-10%25-orange?style=flat-square)
 - **Microsoft Azure: From Zero To Hero:** ![10% Complete](https://img.shields.io/badge/Progress-10%25-orange?style=flat-square)
 - **Docker and Kubernetes:** ![10% Complete](https://img.shields.io/badge/Progress-10%25-orange?style=flat-square)
-- **Next.js: The Complete Developer's Guide:** ![10% Complete](https://img.shields.io/badge/Progress-10%25-orange?style=flat-square)
 - **Vue - The Complete Guide:** ![11% Complete](https://img.shields.io/badge/Progress-11%25-orange?style=flat-square)
 - **React - The Complete Guide:** ![5% Complete](https://img.shields.io/badge/Progress-5%25-orange?style=flat-square)
 - **Microservices with Node JS and React:** ![5% Complete](https://img.shields.io/badge/Progress-5%25-orange?style=flat-square)
