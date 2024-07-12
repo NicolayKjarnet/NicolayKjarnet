@@ -19,7 +19,7 @@ I thrive on learning new topics and creating things that have a positive impact 
 ## Greatest Strengths 💪
 
 - **Efficiency**: I'm obsessed with optimizing my workflows and always try to find ways to do more in less time.
-- **Attention to Detail**: Whether it's code quality or the nuances in a video edit, I always make sure no detail is overlooked.
+- **Attention to Detail**: Whether it's code quality or the nuances in a video edit, I always try to make sure no detail is overlooked.
 - **Passion for Learning**: My daily routine includes absorbing new knowledge, from technology trends to creative techniques.
 
 ## Projects In Progress 🚀
@@ -38,4 +38,4 @@ Wrd is an iOS application born from a collaborative project that I spearheaded a
 ![Progress](https://img.shields.io/badge/Progress-30%25-orange)
 
 ## Portfolio
-My portfolio can be visited at: [nicolaykjaernet.com](https://www.nicolaykjaernet.com)
+My portfolio: [nicolaykjaernet.com](https://www.nicolaykjaernet.com)
