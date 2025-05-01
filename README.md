@@ -1,5 +1,18 @@
 # Hi there, I'm Nicolay! 👋
-I'm a Creative Developer at Cavai, where I conceptualize, design, and code interactive advertising campaigns. Additionally, I freelance as a content producer for various clients including Universal Music Norway, and I'm co-running the company Kjærnet-Wesseltoft, where we're currently developing an interactive kitchen design platform.
+<div>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-nicolaykjaernet.com-tomato)](https://www.nicolaykjaernet.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolaykjaernet-tomato)](https://www.linkedin.com/in/nicolaykjaernet/)
+  
+</div>
+
+## About Me 👨‍💻
+I'm a Frontend Developer at Cavai, where I work on improving the platform that drives our creative advertising solutions. I started as a Creative Developer in September 2024, where I conceptualized, designed, and coded interactive advertising campaigns, and have now moved into a full-time frontend development role using Vue and TypeScript.
+
+Beyond my primary role, I co-founded Kjærnet-Wesseltoft, an interior architecture and design consultancy, where we're currently developing an interactive high-end kitchen design platform. I also take on a few freelance projects as a content producer from time to time.
+
+With a background in screenwriting and content production, I combine technical expertise with visual storytelling. I thrive on optimizing workflows and creating efficient solutions that actually work.
+
 
 ## Tools & Languages 🛠️
 | Front-end       | Back-end       | Mobile         | Database       |
@@ -9,8 +22,6 @@ I'm a Creative Developer at Cavai, where I conceptualize, design, and code inter
 | `Vue.js`        | `C#`           |                | `SQLite`       |
 | `Tailwind CSS`  |                |                |                |
 
-## About Me 👨‍💻
-I'm a creative problem solver who combines technical expertise with visual storytelling. With a background in screenwriting and content production, I bring my own perspective to development - whether it's crafting engaging ad experiences or building user-friendly design tools. I love optimizing workflows and creating efficient solutions.
 
 ## Portfolio 🎨
 My portfolio: [nicolaykjaernet.com](https://www.nicolaykjaernet.com)
